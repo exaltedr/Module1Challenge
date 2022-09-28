@@ -30,6 +30,8 @@ Provide deploy links or any other required links:
 
 README example text link: "https://www.geeksforgeeks.org/what-is-readme-md-file/#:~:text=The%20following%20are%20the%20general%20key%20components%20of,as%20a%20team%2C%20list%20your%20team%20members.%20"
 
+Link to Deployed Application: https://exaltedr.github.io/Module1Challenge/#social-media-marketing
+
 Screenshots of webpage:
 
 ![module1challengescreenshot2](https://user-images.githubusercontent.com/109990032/192907813-6c76dbda-a78a-4ce3-adc5-8591265d9d0d.PNG)
