@@ -32,3 +32,6 @@ README example text link: "https://www.geeksforgeeks.org/what-is-readme-md-file/
 
 Screenshots of webpage:
 
+![module1challengescreenshot2](https://user-images.githubusercontent.com/109990032/192907813-6c76dbda-a78a-4ce3-adc5-8591265d9d0d.PNG)
+![module1challengescreenshot3](https://user-images.githubusercontent.com/109990032/192907814-e2b918ff-1c08-4c5b-9614-20fcb1293c09.PNG)
+![module1challengescreenshot1](https://user-images.githubusercontent.com/109990032/192907815-04db24d4-bf56-4cd8-873f-82a0f9af24e7.PNG)
